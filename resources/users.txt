@@ -1,0 +1,2 @@
+usernames=sam,sid
+passwords=321,321
