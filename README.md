@@ -1,4 +1,4 @@
-#Secured Peer-to-Peer File Distribution System
+Secured Peer-to-Peer File Distribution System
 
 Introduction:
 The Secured Peer-to-Peer File Distribution System (P2P FDS) is a robust platform developed to facilitate secure and efficient file sharing among users. This system is specifically designed to bolster security measures while maintaining high efficiency in file distribution within a peer-to-peer network.
